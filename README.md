@@ -1,2 +1,2 @@
 # apple-scripts
-Some usefull applescript
+Some usefull applescripts
